@@ -5,17 +5,17 @@ Some description
 
 ## List
 
- + [link]()  <img src='link.svg' style='display: inline-block; height: 1em'> - and link description
- + [link]()  <img src='link.svg' style='display: inline-block; height: 1em'> - and link description
- + [link]()  <img src='link.svg' style='display: inline-block; height: 1em'> - and link description
- + [link]()  <img src='link.svg' style='display: inline-block; height: 1em'> - and link description
+ + [link]()  <img src='https://raw.githubusercontent.com/gabr/ReadmeExample/master/link.svg' style='display: inline-block; height: 1em'> - and link description
+ + [link]()  <img src='https://raw.githubusercontent.com/gabr/ReadmeExample/master/link.svg' style='display: inline-block; height: 1em'> - and link description
+ + [link]()  <img src='https://raw.githubusercontent.com/gabr/ReadmeExample/master/link.svg' style='display: inline-block; height: 1em'> - and link description
+ + [link]()  <img src='https://raw.githubusercontent.com/gabr/ReadmeExample/master/link.svg' style='display: inline-block; height: 1em'> - and link description
 
 ## Articles 
 
- + [link]()  <img src='link.svg' style='display: inline-block; height: 1em'> - _and link description_
- + [link]()  <img src='link.svg' style='display: inline-block; height: 1em'> - _and link description_
- + [link]()  <img src='link.svg' style='display: inline-block; height: 1em'> - _and link description_
- + [link]()  <img src='link.svg' style='display: inline-block; height: 1em'> - _and link description_
+ + [link]()  <img src='https://raw.githubusercontent.com/gabr/ReadmeExample/master/link.svg' style='display: inline-block; height: 1em'> - _and link description_
+ + [link]()  <img src='https://raw.githubusercontent.com/gabr/ReadmeExample/master/link.svg' style='display: inline-block; height: 1em'> - _and link description_
+ + [link]()  <img src='https://raw.githubusercontent.com/gabr/ReadmeExample/master/link.svg' style='display: inline-block; height: 1em'> - _and link description_
+ + [link]()  <img src='https://raw.githubusercontent.com/gabr/ReadmeExample/master/link.svg' style='display: inline-block; height: 1em'> - _and link description_
 
 ## Code example
 
